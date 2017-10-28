@@ -1,2 +1,2 @@
 # The Fuck Scripts 
-brew-isntall.py
+brew-install.py
